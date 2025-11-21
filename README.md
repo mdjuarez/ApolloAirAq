@@ -68,7 +68,7 @@ Everyone is free to:
 
 * Adjust the scoring logic based on their needs
 
-* Create their own custom AQI sensors
+* Create their own custom AQ sensors
 
 * Contribute improvements or ideas
 
